@@ -1,6 +1,0 @@
-*.tfstate
-*.tfstate.backup
-.clusterip
-.terraform_cluster_ips.tfvars
-.terraform_general.tfvars
-.kubeconfig
